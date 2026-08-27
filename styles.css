@@ -33,6 +33,7 @@ body {
   background: color-mix(in srgb, var(--paper) 88%, transparent);
   backdrop-filter: blur(10px);
 }
+.pin-gate[hidden] { display: none !important; }
 .pin-card {
   width: min(400px, 100%);
   background: var(--card);
