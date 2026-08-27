@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f5c8c">
+<title>Strip Verification · Retail Odyssey</title>
+<link rel="icon" type="image/png" href="assets/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="pin-gate" class="pin-gate">
+  <div class="pin-card">
+    <img src="assets/logo-banner.png" alt="Retail Odyssey" class="pin-logo" onerror="this.src='assets/logo.png'">
+    <h1>Strip Verification</h1>
+    <p>District 8 · P08W2 photo review</p>
+    <label for="pin-input">Enter access PIN</label>
+    <input id="pin-input" type="password" inputmode="numeric" maxlength="8" autocomplete="one-time-code" placeholder="••••">
+    <button type="button" id="pin-submit" class="btn btn-primary">Enter</button>
+    <p id="pin-error" class="pin-error" hidden>Incorrect PIN</p>
+  </div>
+</div>
+
+<header class="top" id="app-header" hidden>
+  <div class="top-inner">
+    <img src="assets/logo-banner.png" alt="Retail Odyssey" class="brand" onerror="this.src='assets/logo.png'">
+    <div class="titles">
+      <div class="eyebrow">Retail Odyssey</div>
+      <h1>District 8 Strip Verification</h1>
+      <div class="sub" id="header-sub">P08W2</div>
+    </div>
+    <div class="top-actions">
+      <button type="button" class="btn btn-ghost" id="btn-bulk">Download all</button>
+      <button type="button" class="btn btn-ghost" id="btn-signout">Lock</button>
+    </div>
+  </div>
+</header>
+
+<main id="app" class="wrap" hidden>
+  <section class="toolbar">
+    <div class="stats" id="stats"></div>
+    <label class="filter">
+      Store
+      <select id="store-filter"><option value="">All stores</option></select>
+    </label>
+  </section>
+
+  <div class="table-scroll">
+    <table class="gallery-table" id="gallery-table">
+      <thead id="table-head"></thead>
+      <tbody id="table-body"></tbody>
+    </table>
+  </div>
+</main>
+
+<div id="lightbox" class="lightbox" hidden>
+  <button type="button" class="lb-close" id="lb-close" aria-label="Close">&times;</button>
+  <button type="button" class="lb-nav lb-prev" id="lb-prev" aria-label="Previous">‹</button>
+  <button type="button" class="lb-nav lb-next" id="lb-next" aria-label="Next">›</button>
+  <div class="lb-meta" id="lb-meta"></div>
+  <img id="lb-img" alt="">
+  <div class="lb-counter" id="lb-counter"></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

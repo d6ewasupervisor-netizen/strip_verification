@@ -1,0 +1,964 @@
+{
+  "title": "District 8 Strip Verification",
+  "periodWeek": "P08W2",
+  "brand": "Retail Odyssey",
+  "builtAt": "2026-08-27T20:32:21.528Z",
+  "maxOverallColumns": 4,
+  "overallHeaders": [
+    "Overall A",
+    "Overall B",
+    "Overall C",
+    "Overall D"
+  ],
+  "bulkZip": "zips/District8_P08W2_Strip_Verification_ALL.zip",
+  "stores": [
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setCount": 13,
+      "photoCount": 45,
+      "zip": "zips/FM031_Benson_Plaza_P08W2_strip_verification.zip",
+      "sets": [
+        {
+          "id": "31-COCKTAIL_MIXES_WITH_CSD_MIXERS_-_6_SHELF_D701_L00000_D01_C012_V134_F004_UX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "COCKTAIL MIXES WITH CSD MIXERS - 6 SHELF",
+          "pogId": "D701_L00000_D01_C012_V134_F004_UX",
+          "folder": "COCKTAIL_MIXES_WITH_CSD_MIXERS_-_6_SHELF_D701_L00000_D01_C012_V134_F004_UX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/COCKTAIL_MIXES_WITH_CSD_MIXERS_-_6_SHELF_D701_L00000_D01_C012_V134_F004_UX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/COCKTAIL_MIXES_WITH_CSD_MIXERS_-_6_SHELF_D701_L00000_D01_C012_V134_F004_UX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/COCKTAIL_MIXES_WITH_CSD_MIXERS_-_6_SHELF_D701_L00000_D01_C012_V134_F004_UX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/COCKTAIL_MIXES_WITH_CSD_MIXERS_-_6_SHELF_D701_L00000_D01_C012_V134_F004_UX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            }
+          ]
+        },
+        {
+          "id": "31-FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "FRED MEYER RTD SET",
+          "pogId": "D701_L00031_D01_C034_V702_F012_UX",
+          "folder": "FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX/overall_b.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            }
+          ]
+        },
+        {
+          "id": "31-S1LIQ_D701_L00031_D01_C034_VS01_F012_UX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "S1LIQ",
+          "pogId": "D701_L00031_D01_C034_VS01_F012_UX",
+          "folder": "S1LIQ_D701_L00031_D01_C034_VS01_F012_UX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_b.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_c.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_c.thumb.webp",
+              "label": "Overall C",
+              "letter": "C"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_d.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_d.thumb.webp",
+              "label": "Overall D",
+              "letter": "D"
+            }
+          ]
+        },
+        {
+          "id": "31-S1WINE_D701_L00031_D01_C047_VS01_F016_UX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "S1WINE",
+          "pogId": "D701_L00031_D01_C047_VS01_F016_UX",
+          "folder": "S1WINE_D701_L00031_D01_C047_VS01_F016_UX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/S1WINE_D701_L00031_D01_C047_VS01_F016_UX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/S1WINE_D701_L00031_D01_C047_VS01_F016_UX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/S1WINE_D701_L00031_D01_C047_VS01_F016_UX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S1WINE_D701_L00031_D01_C047_VS01_F016_UX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S1WINE_D701_L00031_D01_C047_VS01_F016_UX/overall_b.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S1WINE_D701_L00031_D01_C047_VS01_F016_UX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            }
+          ]
+        },
+        {
+          "id": "31-S2LIQ_D701_L00031_D01_C034_VS02_F016_UX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "S2LIQ",
+          "pogId": "D701_L00031_D01_C034_VS02_F016_UX",
+          "folder": "S2LIQ_D701_L00031_D01_C034_VS02_F016_UX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_b.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_c.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_c.thumb.webp",
+              "label": "Overall C",
+              "letter": "C"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_d.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_d.thumb.webp",
+              "label": "Overall D",
+              "letter": "D"
+            }
+          ]
+        },
+        {
+          "id": "31-S2WINE_D701_L00031_D01_C047_VS02_F016_UX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "S2WINE",
+          "pogId": "D701_L00031_D01_C047_VS02_F016_UX",
+          "folder": "S2WINE_D701_L00031_D01_C047_VS02_F016_UX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/S2WINE_D701_L00031_D01_C047_VS02_F016_UX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/S2WINE_D701_L00031_D01_C047_VS02_F016_UX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/S2WINE_D701_L00031_D01_C047_VS02_F016_UX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S2WINE_D701_L00031_D01_C047_VS02_F016_UX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S2WINE_D701_L00031_D01_C047_VS02_F016_UX/overall_b.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S2WINE_D701_L00031_D01_C047_VS02_F016_UX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            }
+          ]
+        },
+        {
+          "id": "31-S3LIQ_D701_L00031_D01_C034_VS03_F016_UX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "S3LIQ",
+          "pogId": "D701_L00031_D01_C034_VS03_F016_UX",
+          "folder": "S3LIQ_D701_L00031_D01_C034_VS03_F016_UX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_b.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_c.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_c.thumb.webp",
+              "label": "Overall C",
+              "letter": "C"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_d.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_d.thumb.webp",
+              "label": "Overall D",
+              "letter": "D"
+            }
+          ]
+        },
+        {
+          "id": "31-S3WINE_D701_L00031_D01_C047_VS03_F016_UX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "S3WINE",
+          "pogId": "D701_L00031_D01_C047_VS03_F016_UX",
+          "folder": "S3WINE_D701_L00031_D01_C047_VS03_F016_UX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/S3WINE_D701_L00031_D01_C047_VS03_F016_UX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/S3WINE_D701_L00031_D01_C047_VS03_F016_UX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/S3WINE_D701_L00031_D01_C047_VS03_F016_UX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S3WINE_D701_L00031_D01_C047_VS03_F016_UX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S3WINE_D701_L00031_D01_C047_VS03_F016_UX/overall_b.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S3WINE_D701_L00031_D01_C047_VS03_F016_UX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            }
+          ]
+        },
+        {
+          "id": "31-S4WINE_D701_L00031_D01_C047_VS04_F016_UX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "S4WINE",
+          "pogId": "D701_L00031_D01_C047_VS04_F016_UX",
+          "folder": "S4WINE_D701_L00031_D01_C047_VS04_F016_UX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/S4WINE_D701_L00031_D01_C047_VS04_F016_UX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/S4WINE_D701_L00031_D01_C047_VS04_F016_UX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/S4WINE_D701_L00031_D01_C047_VS04_F016_UX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S4WINE_D701_L00031_D01_C047_VS04_F016_UX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S4WINE_D701_L00031_D01_C047_VS04_F016_UX/overall_b.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S4WINE_D701_L00031_D01_C047_VS04_F016_UX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            }
+          ]
+        },
+        {
+          "id": "31-S5WINE_D701_L00031_D01_C047_VS05_F016_UX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "S5WINE",
+          "pogId": "D701_L00031_D01_C047_VS05_F016_UX",
+          "folder": "S5WINE_D701_L00031_D01_C047_VS05_F016_UX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/S5WINE_D701_L00031_D01_C047_VS05_F016_UX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/S5WINE_D701_L00031_D01_C047_VS05_F016_UX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/S5WINE_D701_L00031_D01_C047_VS05_F016_UX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S5WINE_D701_L00031_D01_C047_VS05_F016_UX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S5WINE_D701_L00031_D01_C047_VS05_F016_UX/overall_b.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S5WINE_D701_L00031_D01_C047_VS05_F016_UX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            }
+          ]
+        },
+        {
+          "id": "31-S6WINE_D701_L00031_D01_C047_VS06_F016_UX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "S6WINE",
+          "pogId": "D701_L00031_D01_C047_VS06_F016_UX",
+          "folder": "S6WINE_D701_L00031_D01_C047_VS06_F016_UX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/S6WINE_D701_L00031_D01_C047_VS06_F016_UX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/S6WINE_D701_L00031_D01_C047_VS06_F016_UX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/S6WINE_D701_L00031_D01_C047_VS06_F016_UX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S6WINE_D701_L00031_D01_C047_VS06_F016_UX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/S6WINE_D701_L00031_D01_C047_VS06_F016_UX/overall_b.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S6WINE_D701_L00031_D01_C047_VS06_F016_UX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            }
+          ]
+        },
+        {
+          "id": "31-S7WINE_D701_L00031_D01_C047_VS07_F004_UX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "S7WINE",
+          "pogId": "D701_L00031_D01_C047_VS07_F004_UX",
+          "folder": "S7WINE_D701_L00031_D01_C047_VS07_F004_UX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/S7WINE_D701_L00031_D01_C047_VS07_F004_UX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/S7WINE_D701_L00031_D01_C047_VS07_F004_UX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/S7WINE_D701_L00031_D01_C047_VS07_F004_UX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/S7WINE_D701_L00031_D01_C047_VS07_F004_UX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            }
+          ]
+        },
+        {
+          "id": "31-YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX",
+          "storeNum": 31,
+          "storeName": "Benson Plaza",
+          "setName": "YOGURT - 6 SHELF KCSD - REVERSE FLOW",
+          "pogId": "701_L00031_D01_C062_V122_F030_MX",
+          "folder": "YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX",
+          "strip": {
+            "full": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/strip.webp",
+            "thumb": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_a.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_b.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_c.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_c.thumb.webp",
+              "label": "Overall C",
+              "letter": "C"
+            },
+            {
+              "full": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_d.webp",
+              "thumb": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_d.thumb.webp",
+              "label": "Overall D",
+              "letter": "D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "storeNum": 53,
+      "storeName": "Covington",
+      "setCount": 1,
+      "photoCount": 2,
+      "zip": "zips/FM053_Covington_P08W2_strip_verification.zip",
+      "sets": [
+        {
+          "id": "53-5_SHELF_-_SPECIALTY_CRACKER_DESTINATION_D701_L00000_D10_C462_V590_F008_MX",
+          "storeNum": 53,
+          "storeName": "Covington",
+          "setName": "5 SHELF - SPECIALTY CRACKER DESTINATION",
+          "pogId": "D701_L00000_D10_C462_V590_F008_MX",
+          "folder": "5_SHELF_-_SPECIALTY_CRACKER_DESTINATION_D701_L00000_D10_C462_V590_F008_MX",
+          "strip": {
+            "full": "photos/Store_053_Covington/5_SHELF_-_SPECIALTY_CRACKER_DESTINATION_D701_L00000_D10_C462_V590_F008_MX/strip.webp",
+            "thumb": "photos/Store_053_Covington/5_SHELF_-_SPECIALTY_CRACKER_DESTINATION_D701_L00000_D10_C462_V590_F008_MX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_053_Covington/5_SHELF_-_SPECIALTY_CRACKER_DESTINATION_D701_L00000_D10_C462_V590_F008_MX/overall_a.webp",
+              "thumb": "photos/Store_053_Covington/5_SHELF_-_SPECIALTY_CRACKER_DESTINATION_D701_L00000_D10_C462_V590_F008_MX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "storeNum": 459,
+      "storeName": "Renton",
+      "setCount": 1,
+      "photoCount": 2,
+      "zip": "zips/FM459_Renton_P08W2_strip_verification.zip",
+      "sets": [
+        {
+          "id": "459-WA_PACKS_USCAN_CIGARETTE_FIXTURE_D701_L00000_D03_C121_V532_F002_MX",
+          "storeNum": 459,
+          "storeName": "Renton",
+          "setName": "WA PACKS USCAN CIGARETTE FIXTURE",
+          "pogId": "D701_L00000_D03_C121_V532_F002_MX",
+          "folder": "WA_PACKS_USCAN_CIGARETTE_FIXTURE_D701_L00000_D03_C121_V532_F002_MX",
+          "strip": {
+            "full": "photos/Store_459_Renton/WA_PACKS_USCAN_CIGARETTE_FIXTURE_D701_L00000_D03_C121_V532_F002_MX/strip.webp",
+            "thumb": "photos/Store_459_Renton/WA_PACKS_USCAN_CIGARETTE_FIXTURE_D701_L00000_D03_C121_V532_F002_MX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_459_Renton/WA_PACKS_USCAN_CIGARETTE_FIXTURE_D701_L00000_D03_C121_V532_F002_MX/overall_a.webp",
+              "thumb": "photos/Store_459_Renton/WA_PACKS_USCAN_CIGARETTE_FIXTURE_D701_L00000_D03_C121_V532_F002_MX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lightbox": [
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "COCKTAIL MIXES WITH CSD MIXERS - 6 SHELF",
+      "pogId": "D701_L00000_D01_C012_V134_F004_UX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/COCKTAIL_MIXES_WITH_CSD_MIXERS_-_6_SHELF_D701_L00000_D01_C012_V134_F004_UX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/COCKTAIL_MIXES_WITH_CSD_MIXERS_-_6_SHELF_D701_L00000_D01_C012_V134_F004_UX/strip.thumb.webp",
+      "setId": "31-COCKTAIL_MIXES_WITH_CSD_MIXERS_-_6_SHELF_D701_L00000_D01_C012_V134_F004_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "COCKTAIL MIXES WITH CSD MIXERS - 6 SHELF",
+      "pogId": "D701_L00000_D01_C012_V134_F004_UX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/COCKTAIL_MIXES_WITH_CSD_MIXERS_-_6_SHELF_D701_L00000_D01_C012_V134_F004_UX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/COCKTAIL_MIXES_WITH_CSD_MIXERS_-_6_SHELF_D701_L00000_D01_C012_V134_F004_UX/overall_a.thumb.webp",
+      "setId": "31-COCKTAIL_MIXES_WITH_CSD_MIXERS_-_6_SHELF_D701_L00000_D01_C012_V134_F004_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "FRED MEYER RTD SET",
+      "pogId": "D701_L00031_D01_C034_V702_F012_UX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX/strip.thumb.webp",
+      "setId": "31-FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "FRED MEYER RTD SET",
+      "pogId": "D701_L00031_D01_C034_V702_F012_UX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX/overall_a.thumb.webp",
+      "setId": "31-FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "FRED MEYER RTD SET",
+      "pogId": "D701_L00031_D01_C034_V702_F012_UX",
+      "label": "Overall B",
+      "full": "photos/Store_031_Benson_Plaza/FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX/overall_b.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX/overall_b.thumb.webp",
+      "setId": "31-FRED_MEYER_RTD_SET_D701_L00031_D01_C034_V702_F012_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S1LIQ",
+      "pogId": "D701_L00031_D01_C034_VS01_F012_UX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/strip.thumb.webp",
+      "setId": "31-S1LIQ_D701_L00031_D01_C034_VS01_F012_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S1LIQ",
+      "pogId": "D701_L00031_D01_C034_VS01_F012_UX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_a.thumb.webp",
+      "setId": "31-S1LIQ_D701_L00031_D01_C034_VS01_F012_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S1LIQ",
+      "pogId": "D701_L00031_D01_C034_VS01_F012_UX",
+      "label": "Overall B",
+      "full": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_b.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_b.thumb.webp",
+      "setId": "31-S1LIQ_D701_L00031_D01_C034_VS01_F012_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S1LIQ",
+      "pogId": "D701_L00031_D01_C034_VS01_F012_UX",
+      "label": "Overall C",
+      "full": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_c.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_c.thumb.webp",
+      "setId": "31-S1LIQ_D701_L00031_D01_C034_VS01_F012_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S1LIQ",
+      "pogId": "D701_L00031_D01_C034_VS01_F012_UX",
+      "label": "Overall D",
+      "full": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_d.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S1LIQ_D701_L00031_D01_C034_VS01_F012_UX/overall_d.thumb.webp",
+      "setId": "31-S1LIQ_D701_L00031_D01_C034_VS01_F012_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S1WINE",
+      "pogId": "D701_L00031_D01_C047_VS01_F016_UX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/S1WINE_D701_L00031_D01_C047_VS01_F016_UX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S1WINE_D701_L00031_D01_C047_VS01_F016_UX/strip.thumb.webp",
+      "setId": "31-S1WINE_D701_L00031_D01_C047_VS01_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S1WINE",
+      "pogId": "D701_L00031_D01_C047_VS01_F016_UX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/S1WINE_D701_L00031_D01_C047_VS01_F016_UX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S1WINE_D701_L00031_D01_C047_VS01_F016_UX/overall_a.thumb.webp",
+      "setId": "31-S1WINE_D701_L00031_D01_C047_VS01_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S1WINE",
+      "pogId": "D701_L00031_D01_C047_VS01_F016_UX",
+      "label": "Overall B",
+      "full": "photos/Store_031_Benson_Plaza/S1WINE_D701_L00031_D01_C047_VS01_F016_UX/overall_b.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S1WINE_D701_L00031_D01_C047_VS01_F016_UX/overall_b.thumb.webp",
+      "setId": "31-S1WINE_D701_L00031_D01_C047_VS01_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S2LIQ",
+      "pogId": "D701_L00031_D01_C034_VS02_F016_UX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/strip.thumb.webp",
+      "setId": "31-S2LIQ_D701_L00031_D01_C034_VS02_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S2LIQ",
+      "pogId": "D701_L00031_D01_C034_VS02_F016_UX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_a.thumb.webp",
+      "setId": "31-S2LIQ_D701_L00031_D01_C034_VS02_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S2LIQ",
+      "pogId": "D701_L00031_D01_C034_VS02_F016_UX",
+      "label": "Overall B",
+      "full": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_b.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_b.thumb.webp",
+      "setId": "31-S2LIQ_D701_L00031_D01_C034_VS02_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S2LIQ",
+      "pogId": "D701_L00031_D01_C034_VS02_F016_UX",
+      "label": "Overall C",
+      "full": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_c.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_c.thumb.webp",
+      "setId": "31-S2LIQ_D701_L00031_D01_C034_VS02_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S2LIQ",
+      "pogId": "D701_L00031_D01_C034_VS02_F016_UX",
+      "label": "Overall D",
+      "full": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_d.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S2LIQ_D701_L00031_D01_C034_VS02_F016_UX/overall_d.thumb.webp",
+      "setId": "31-S2LIQ_D701_L00031_D01_C034_VS02_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S2WINE",
+      "pogId": "D701_L00031_D01_C047_VS02_F016_UX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/S2WINE_D701_L00031_D01_C047_VS02_F016_UX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S2WINE_D701_L00031_D01_C047_VS02_F016_UX/strip.thumb.webp",
+      "setId": "31-S2WINE_D701_L00031_D01_C047_VS02_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S2WINE",
+      "pogId": "D701_L00031_D01_C047_VS02_F016_UX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/S2WINE_D701_L00031_D01_C047_VS02_F016_UX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S2WINE_D701_L00031_D01_C047_VS02_F016_UX/overall_a.thumb.webp",
+      "setId": "31-S2WINE_D701_L00031_D01_C047_VS02_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S2WINE",
+      "pogId": "D701_L00031_D01_C047_VS02_F016_UX",
+      "label": "Overall B",
+      "full": "photos/Store_031_Benson_Plaza/S2WINE_D701_L00031_D01_C047_VS02_F016_UX/overall_b.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S2WINE_D701_L00031_D01_C047_VS02_F016_UX/overall_b.thumb.webp",
+      "setId": "31-S2WINE_D701_L00031_D01_C047_VS02_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S3LIQ",
+      "pogId": "D701_L00031_D01_C034_VS03_F016_UX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/strip.thumb.webp",
+      "setId": "31-S3LIQ_D701_L00031_D01_C034_VS03_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S3LIQ",
+      "pogId": "D701_L00031_D01_C034_VS03_F016_UX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_a.thumb.webp",
+      "setId": "31-S3LIQ_D701_L00031_D01_C034_VS03_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S3LIQ",
+      "pogId": "D701_L00031_D01_C034_VS03_F016_UX",
+      "label": "Overall B",
+      "full": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_b.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_b.thumb.webp",
+      "setId": "31-S3LIQ_D701_L00031_D01_C034_VS03_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S3LIQ",
+      "pogId": "D701_L00031_D01_C034_VS03_F016_UX",
+      "label": "Overall C",
+      "full": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_c.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_c.thumb.webp",
+      "setId": "31-S3LIQ_D701_L00031_D01_C034_VS03_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S3LIQ",
+      "pogId": "D701_L00031_D01_C034_VS03_F016_UX",
+      "label": "Overall D",
+      "full": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_d.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S3LIQ_D701_L00031_D01_C034_VS03_F016_UX/overall_d.thumb.webp",
+      "setId": "31-S3LIQ_D701_L00031_D01_C034_VS03_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S3WINE",
+      "pogId": "D701_L00031_D01_C047_VS03_F016_UX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/S3WINE_D701_L00031_D01_C047_VS03_F016_UX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S3WINE_D701_L00031_D01_C047_VS03_F016_UX/strip.thumb.webp",
+      "setId": "31-S3WINE_D701_L00031_D01_C047_VS03_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S3WINE",
+      "pogId": "D701_L00031_D01_C047_VS03_F016_UX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/S3WINE_D701_L00031_D01_C047_VS03_F016_UX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S3WINE_D701_L00031_D01_C047_VS03_F016_UX/overall_a.thumb.webp",
+      "setId": "31-S3WINE_D701_L00031_D01_C047_VS03_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S3WINE",
+      "pogId": "D701_L00031_D01_C047_VS03_F016_UX",
+      "label": "Overall B",
+      "full": "photos/Store_031_Benson_Plaza/S3WINE_D701_L00031_D01_C047_VS03_F016_UX/overall_b.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S3WINE_D701_L00031_D01_C047_VS03_F016_UX/overall_b.thumb.webp",
+      "setId": "31-S3WINE_D701_L00031_D01_C047_VS03_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S4WINE",
+      "pogId": "D701_L00031_D01_C047_VS04_F016_UX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/S4WINE_D701_L00031_D01_C047_VS04_F016_UX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S4WINE_D701_L00031_D01_C047_VS04_F016_UX/strip.thumb.webp",
+      "setId": "31-S4WINE_D701_L00031_D01_C047_VS04_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S4WINE",
+      "pogId": "D701_L00031_D01_C047_VS04_F016_UX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/S4WINE_D701_L00031_D01_C047_VS04_F016_UX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S4WINE_D701_L00031_D01_C047_VS04_F016_UX/overall_a.thumb.webp",
+      "setId": "31-S4WINE_D701_L00031_D01_C047_VS04_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S4WINE",
+      "pogId": "D701_L00031_D01_C047_VS04_F016_UX",
+      "label": "Overall B",
+      "full": "photos/Store_031_Benson_Plaza/S4WINE_D701_L00031_D01_C047_VS04_F016_UX/overall_b.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S4WINE_D701_L00031_D01_C047_VS04_F016_UX/overall_b.thumb.webp",
+      "setId": "31-S4WINE_D701_L00031_D01_C047_VS04_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S5WINE",
+      "pogId": "D701_L00031_D01_C047_VS05_F016_UX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/S5WINE_D701_L00031_D01_C047_VS05_F016_UX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S5WINE_D701_L00031_D01_C047_VS05_F016_UX/strip.thumb.webp",
+      "setId": "31-S5WINE_D701_L00031_D01_C047_VS05_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S5WINE",
+      "pogId": "D701_L00031_D01_C047_VS05_F016_UX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/S5WINE_D701_L00031_D01_C047_VS05_F016_UX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S5WINE_D701_L00031_D01_C047_VS05_F016_UX/overall_a.thumb.webp",
+      "setId": "31-S5WINE_D701_L00031_D01_C047_VS05_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S5WINE",
+      "pogId": "D701_L00031_D01_C047_VS05_F016_UX",
+      "label": "Overall B",
+      "full": "photos/Store_031_Benson_Plaza/S5WINE_D701_L00031_D01_C047_VS05_F016_UX/overall_b.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S5WINE_D701_L00031_D01_C047_VS05_F016_UX/overall_b.thumb.webp",
+      "setId": "31-S5WINE_D701_L00031_D01_C047_VS05_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S6WINE",
+      "pogId": "D701_L00031_D01_C047_VS06_F016_UX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/S6WINE_D701_L00031_D01_C047_VS06_F016_UX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S6WINE_D701_L00031_D01_C047_VS06_F016_UX/strip.thumb.webp",
+      "setId": "31-S6WINE_D701_L00031_D01_C047_VS06_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S6WINE",
+      "pogId": "D701_L00031_D01_C047_VS06_F016_UX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/S6WINE_D701_L00031_D01_C047_VS06_F016_UX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S6WINE_D701_L00031_D01_C047_VS06_F016_UX/overall_a.thumb.webp",
+      "setId": "31-S6WINE_D701_L00031_D01_C047_VS06_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S6WINE",
+      "pogId": "D701_L00031_D01_C047_VS06_F016_UX",
+      "label": "Overall B",
+      "full": "photos/Store_031_Benson_Plaza/S6WINE_D701_L00031_D01_C047_VS06_F016_UX/overall_b.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S6WINE_D701_L00031_D01_C047_VS06_F016_UX/overall_b.thumb.webp",
+      "setId": "31-S6WINE_D701_L00031_D01_C047_VS06_F016_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S7WINE",
+      "pogId": "D701_L00031_D01_C047_VS07_F004_UX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/S7WINE_D701_L00031_D01_C047_VS07_F004_UX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S7WINE_D701_L00031_D01_C047_VS07_F004_UX/strip.thumb.webp",
+      "setId": "31-S7WINE_D701_L00031_D01_C047_VS07_F004_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "S7WINE",
+      "pogId": "D701_L00031_D01_C047_VS07_F004_UX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/S7WINE_D701_L00031_D01_C047_VS07_F004_UX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/S7WINE_D701_L00031_D01_C047_VS07_F004_UX/overall_a.thumb.webp",
+      "setId": "31-S7WINE_D701_L00031_D01_C047_VS07_F004_UX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "YOGURT - 6 SHELF KCSD - REVERSE FLOW",
+      "pogId": "701_L00031_D01_C062_V122_F030_MX",
+      "label": "Strip",
+      "full": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/strip.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/strip.thumb.webp",
+      "setId": "31-YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "YOGURT - 6 SHELF KCSD - REVERSE FLOW",
+      "pogId": "701_L00031_D01_C062_V122_F030_MX",
+      "label": "Overall A",
+      "full": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_a.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_a.thumb.webp",
+      "setId": "31-YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "YOGURT - 6 SHELF KCSD - REVERSE FLOW",
+      "pogId": "701_L00031_D01_C062_V122_F030_MX",
+      "label": "Overall B",
+      "full": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_b.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_b.thumb.webp",
+      "setId": "31-YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "YOGURT - 6 SHELF KCSD - REVERSE FLOW",
+      "pogId": "701_L00031_D01_C062_V122_F030_MX",
+      "label": "Overall C",
+      "full": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_c.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_c.thumb.webp",
+      "setId": "31-YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX"
+    },
+    {
+      "storeNum": 31,
+      "storeName": "Benson Plaza",
+      "setName": "YOGURT - 6 SHELF KCSD - REVERSE FLOW",
+      "pogId": "701_L00031_D01_C062_V122_F030_MX",
+      "label": "Overall D",
+      "full": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_d.webp",
+      "thumb": "photos/Store_031_Benson_Plaza/YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX/overall_d.thumb.webp",
+      "setId": "31-YOGURT_-_6_SHELF_KCSD_-_REVERSE_FLOW_701_L00031_D01_C062_V122_F030_MX"
+    },
+    {
+      "storeNum": 53,
+      "storeName": "Covington",
+      "setName": "5 SHELF - SPECIALTY CRACKER DESTINATION",
+      "pogId": "D701_L00000_D10_C462_V590_F008_MX",
+      "label": "Strip",
+      "full": "photos/Store_053_Covington/5_SHELF_-_SPECIALTY_CRACKER_DESTINATION_D701_L00000_D10_C462_V590_F008_MX/strip.webp",
+      "thumb": "photos/Store_053_Covington/5_SHELF_-_SPECIALTY_CRACKER_DESTINATION_D701_L00000_D10_C462_V590_F008_MX/strip.thumb.webp",
+      "setId": "53-5_SHELF_-_SPECIALTY_CRACKER_DESTINATION_D701_L00000_D10_C462_V590_F008_MX"
+    },
+    {
+      "storeNum": 53,
+      "storeName": "Covington",
+      "setName": "5 SHELF - SPECIALTY CRACKER DESTINATION",
+      "pogId": "D701_L00000_D10_C462_V590_F008_MX",
+      "label": "Overall A",
+      "full": "photos/Store_053_Covington/5_SHELF_-_SPECIALTY_CRACKER_DESTINATION_D701_L00000_D10_C462_V590_F008_MX/overall_a.webp",
+      "thumb": "photos/Store_053_Covington/5_SHELF_-_SPECIALTY_CRACKER_DESTINATION_D701_L00000_D10_C462_V590_F008_MX/overall_a.thumb.webp",
+      "setId": "53-5_SHELF_-_SPECIALTY_CRACKER_DESTINATION_D701_L00000_D10_C462_V590_F008_MX"
+    },
+    {
+      "storeNum": 459,
+      "storeName": "Renton",
+      "setName": "WA PACKS USCAN CIGARETTE FIXTURE",
+      "pogId": "D701_L00000_D03_C121_V532_F002_MX",
+      "label": "Strip",
+      "full": "photos/Store_459_Renton/WA_PACKS_USCAN_CIGARETTE_FIXTURE_D701_L00000_D03_C121_V532_F002_MX/strip.webp",
+      "thumb": "photos/Store_459_Renton/WA_PACKS_USCAN_CIGARETTE_FIXTURE_D701_L00000_D03_C121_V532_F002_MX/strip.thumb.webp",
+      "setId": "459-WA_PACKS_USCAN_CIGARETTE_FIXTURE_D701_L00000_D03_C121_V532_F002_MX"
+    },
+    {
+      "storeNum": 459,
+      "storeName": "Renton",
+      "setName": "WA PACKS USCAN CIGARETTE FIXTURE",
+      "pogId": "D701_L00000_D03_C121_V532_F002_MX",
+      "label": "Overall A",
+      "full": "photos/Store_459_Renton/WA_PACKS_USCAN_CIGARETTE_FIXTURE_D701_L00000_D03_C121_V532_F002_MX/overall_a.webp",
+      "thumb": "photos/Store_459_Renton/WA_PACKS_USCAN_CIGARETTE_FIXTURE_D701_L00000_D03_C121_V532_F002_MX/overall_a.thumb.webp",
+      "setId": "459-WA_PACKS_USCAN_CIGARETTE_FIXTURE_D701_L00000_D03_C121_V532_F002_MX"
+    }
+  ]
+}
