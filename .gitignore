@@ -1,4 +1,5 @@
 _build/
+fm019/_raw/
 node_modules/
 .DS_Store
 Thumbs.db

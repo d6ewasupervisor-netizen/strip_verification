@@ -1,0 +1,330 @@
+{
+  "title": "FM019 Auburn Strip Verification",
+  "periodWeek": "P10W2",
+  "brand": "Retail Odyssey",
+  "storeNum": 19,
+  "storeName": "Auburn",
+  "builtAt": "2026-10-30T21:49:24.511Z",
+  "maxOverallColumns": 4,
+  "overallHeaders": [
+    "Overall A",
+    "Overall B",
+    "Overall C",
+    "Overall D"
+  ],
+  "bulkZip": "zips/FM019_Auburn_P10W2_strip_verification.zip",
+  "stores": [
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setCount": 5,
+      "photoCount": 16,
+      "zip": "zips/FM019_Auburn_P10W2_strip_verification.zip",
+      "sets": [
+        {
+          "id": "19-CAT_TREATS_W_COMPLEMENTS_8_SHELF_D701_L00000_D03_C351_V311_F008_MX",
+          "storeNum": 19,
+          "storeName": "Auburn",
+          "setName": "CAT TREATS W COMPLEMENTS 8 SHELF",
+          "pogId": "D701_L00000_D03_C351_V311_F008_MX",
+          "folder": "CAT_TREATS_W_COMPLEMENTS_8_SHELF_D701_L00000_D03_C351_V311_F008_MX",
+          "strip": {
+            "full": "photos/Store_019_Auburn/CAT_TREATS_W_COMPLEMENTS_8_SHELF_D701_L00000_D03_C351_V311_F008_MX/strip.webp",
+            "thumb": "photos/Store_019_Auburn/CAT_TREATS_W_COMPLEMENTS_8_SHELF_D701_L00000_D03_C351_V311_F008_MX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_019_Auburn/CAT_TREATS_W_COMPLEMENTS_8_SHELF_D701_L00000_D03_C351_V311_F008_MX/overall_a.webp",
+              "thumb": "photos/Store_019_Auburn/CAT_TREATS_W_COMPLEMENTS_8_SHELF_D701_L00000_D03_C351_V311_F008_MX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            }
+          ]
+        },
+        {
+          "id": "19-DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX",
+          "storeNum": 19,
+          "storeName": "Auburn",
+          "setName": "DOG TREATS",
+          "pogId": "D701_L00019_D01_C020_V401_F018_MX",
+          "folder": "DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX",
+          "strip": {
+            "full": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/strip.webp",
+            "thumb": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/overall_a.webp",
+              "thumb": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/overall_b.webp",
+              "thumb": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            },
+            {
+              "full": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/overall_c.webp",
+              "thumb": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/overall_c.thumb.webp",
+              "label": "Overall C",
+              "letter": "C"
+            }
+          ]
+        },
+        {
+          "id": "19-DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX",
+          "storeNum": 19,
+          "storeName": "Auburn",
+          "setName": "DRY CAT 4 SHELF 75IN MADIX LOZIER",
+          "pogId": "D701_L00000_D03_C095_V842_F032_MX",
+          "folder": "DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX",
+          "strip": {
+            "full": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/strip.webp",
+            "thumb": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_a.webp",
+              "thumb": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_b.webp",
+              "thumb": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            },
+            {
+              "full": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_c.webp",
+              "thumb": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_c.thumb.webp",
+              "label": "Overall C",
+              "letter": "C"
+            },
+            {
+              "full": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_d.webp",
+              "thumb": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_d.thumb.webp",
+              "label": "Overall D",
+              "letter": "D"
+            }
+          ]
+        },
+        {
+          "id": "19-FROZEN_PET_FREEZER_SLIM_GDM43-SL-HC-TSL01_D701_L00000_D01_C156_V121_F004_MX",
+          "storeNum": 19,
+          "storeName": "Auburn",
+          "setName": "FROZEN PET FREEZER SLIM GDM43-SL-HC-TSL01",
+          "pogId": "D701_L00000_D01_C156_V121_F004_MX",
+          "folder": "FROZEN_PET_FREEZER_SLIM_GDM43-SL-HC-TSL01_D701_L00000_D01_C156_V121_F004_MX",
+          "strip": {
+            "full": "photos/Store_019_Auburn/FROZEN_PET_FREEZER_SLIM_GDM43-SL-HC-TSL01_D701_L00000_D01_C156_V121_F004_MX/strip.webp",
+            "thumb": "photos/Store_019_Auburn/FROZEN_PET_FREEZER_SLIM_GDM43-SL-HC-TSL01_D701_L00000_D01_C156_V121_F004_MX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_019_Auburn/FROZEN_PET_FREEZER_SLIM_GDM43-SL-HC-TSL01_D701_L00000_D01_C156_V121_F004_MX/overall_a.webp",
+              "thumb": "photos/Store_019_Auburn/FROZEN_PET_FREEZER_SLIM_GDM43-SL-HC-TSL01_D701_L00000_D01_C156_V121_F004_MX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            }
+          ]
+        },
+        {
+          "id": "19-WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX",
+          "storeNum": 19,
+          "storeName": "Auburn",
+          "setName": "WET DOG FOOD 7 & 8 SHELF",
+          "pogId": "D701_L00000_D01_C009_V301_F016_MX",
+          "folder": "WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX",
+          "strip": {
+            "full": "photos/Store_019_Auburn/WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX/strip.webp",
+            "thumb": "photos/Store_019_Auburn/WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX/strip.thumb.webp",
+            "label": "Strip"
+          },
+          "overalls": [
+            {
+              "full": "photos/Store_019_Auburn/WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX/overall_a.webp",
+              "thumb": "photos/Store_019_Auburn/WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX/overall_a.thumb.webp",
+              "label": "Overall A",
+              "letter": "A"
+            },
+            {
+              "full": "photos/Store_019_Auburn/WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX/overall_b.webp",
+              "thumb": "photos/Store_019_Auburn/WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX/overall_b.thumb.webp",
+              "label": "Overall B",
+              "letter": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lightbox": [
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "CAT TREATS W COMPLEMENTS 8 SHELF",
+      "pogId": "D701_L00000_D03_C351_V311_F008_MX",
+      "label": "Strip",
+      "full": "photos/Store_019_Auburn/CAT_TREATS_W_COMPLEMENTS_8_SHELF_D701_L00000_D03_C351_V311_F008_MX/strip.webp",
+      "thumb": "photos/Store_019_Auburn/CAT_TREATS_W_COMPLEMENTS_8_SHELF_D701_L00000_D03_C351_V311_F008_MX/strip.thumb.webp",
+      "setId": "19-CAT_TREATS_W_COMPLEMENTS_8_SHELF_D701_L00000_D03_C351_V311_F008_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "CAT TREATS W COMPLEMENTS 8 SHELF",
+      "pogId": "D701_L00000_D03_C351_V311_F008_MX",
+      "label": "Overall A",
+      "full": "photos/Store_019_Auburn/CAT_TREATS_W_COMPLEMENTS_8_SHELF_D701_L00000_D03_C351_V311_F008_MX/overall_a.webp",
+      "thumb": "photos/Store_019_Auburn/CAT_TREATS_W_COMPLEMENTS_8_SHELF_D701_L00000_D03_C351_V311_F008_MX/overall_a.thumb.webp",
+      "setId": "19-CAT_TREATS_W_COMPLEMENTS_8_SHELF_D701_L00000_D03_C351_V311_F008_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "DOG TREATS",
+      "pogId": "D701_L00019_D01_C020_V401_F018_MX",
+      "label": "Strip",
+      "full": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/strip.webp",
+      "thumb": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/strip.thumb.webp",
+      "setId": "19-DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "DOG TREATS",
+      "pogId": "D701_L00019_D01_C020_V401_F018_MX",
+      "label": "Overall A",
+      "full": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/overall_a.webp",
+      "thumb": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/overall_a.thumb.webp",
+      "setId": "19-DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "DOG TREATS",
+      "pogId": "D701_L00019_D01_C020_V401_F018_MX",
+      "label": "Overall B",
+      "full": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/overall_b.webp",
+      "thumb": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/overall_b.thumb.webp",
+      "setId": "19-DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "DOG TREATS",
+      "pogId": "D701_L00019_D01_C020_V401_F018_MX",
+      "label": "Overall C",
+      "full": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/overall_c.webp",
+      "thumb": "photos/Store_019_Auburn/DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX/overall_c.thumb.webp",
+      "setId": "19-DOG_TREATS_D701_L00019_D01_C020_V401_F018_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "DRY CAT 4 SHELF 75IN MADIX LOZIER",
+      "pogId": "D701_L00000_D03_C095_V842_F032_MX",
+      "label": "Strip",
+      "full": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/strip.webp",
+      "thumb": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/strip.thumb.webp",
+      "setId": "19-DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "DRY CAT 4 SHELF 75IN MADIX LOZIER",
+      "pogId": "D701_L00000_D03_C095_V842_F032_MX",
+      "label": "Overall A",
+      "full": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_a.webp",
+      "thumb": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_a.thumb.webp",
+      "setId": "19-DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "DRY CAT 4 SHELF 75IN MADIX LOZIER",
+      "pogId": "D701_L00000_D03_C095_V842_F032_MX",
+      "label": "Overall B",
+      "full": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_b.webp",
+      "thumb": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_b.thumb.webp",
+      "setId": "19-DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "DRY CAT 4 SHELF 75IN MADIX LOZIER",
+      "pogId": "D701_L00000_D03_C095_V842_F032_MX",
+      "label": "Overall C",
+      "full": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_c.webp",
+      "thumb": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_c.thumb.webp",
+      "setId": "19-DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "DRY CAT 4 SHELF 75IN MADIX LOZIER",
+      "pogId": "D701_L00000_D03_C095_V842_F032_MX",
+      "label": "Overall D",
+      "full": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_d.webp",
+      "thumb": "photos/Store_019_Auburn/DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX/overall_d.thumb.webp",
+      "setId": "19-DRY_CAT_4_SHELF_75IN_MADIX_LOZIER_D701_L00000_D03_C095_V842_F032_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "FROZEN PET FREEZER SLIM GDM43-SL-HC-TSL01",
+      "pogId": "D701_L00000_D01_C156_V121_F004_MX",
+      "label": "Strip",
+      "full": "photos/Store_019_Auburn/FROZEN_PET_FREEZER_SLIM_GDM43-SL-HC-TSL01_D701_L00000_D01_C156_V121_F004_MX/strip.webp",
+      "thumb": "photos/Store_019_Auburn/FROZEN_PET_FREEZER_SLIM_GDM43-SL-HC-TSL01_D701_L00000_D01_C156_V121_F004_MX/strip.thumb.webp",
+      "setId": "19-FROZEN_PET_FREEZER_SLIM_GDM43-SL-HC-TSL01_D701_L00000_D01_C156_V121_F004_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "FROZEN PET FREEZER SLIM GDM43-SL-HC-TSL01",
+      "pogId": "D701_L00000_D01_C156_V121_F004_MX",
+      "label": "Overall A",
+      "full": "photos/Store_019_Auburn/FROZEN_PET_FREEZER_SLIM_GDM43-SL-HC-TSL01_D701_L00000_D01_C156_V121_F004_MX/overall_a.webp",
+      "thumb": "photos/Store_019_Auburn/FROZEN_PET_FREEZER_SLIM_GDM43-SL-HC-TSL01_D701_L00000_D01_C156_V121_F004_MX/overall_a.thumb.webp",
+      "setId": "19-FROZEN_PET_FREEZER_SLIM_GDM43-SL-HC-TSL01_D701_L00000_D01_C156_V121_F004_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "WET DOG FOOD 7 & 8 SHELF",
+      "pogId": "D701_L00000_D01_C009_V301_F016_MX",
+      "label": "Strip",
+      "full": "photos/Store_019_Auburn/WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX/strip.webp",
+      "thumb": "photos/Store_019_Auburn/WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX/strip.thumb.webp",
+      "setId": "19-WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "WET DOG FOOD 7 & 8 SHELF",
+      "pogId": "D701_L00000_D01_C009_V301_F016_MX",
+      "label": "Overall A",
+      "full": "photos/Store_019_Auburn/WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX/overall_a.webp",
+      "thumb": "photos/Store_019_Auburn/WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX/overall_a.thumb.webp",
+      "setId": "19-WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX"
+    },
+    {
+      "storeNum": 19,
+      "storeName": "Auburn",
+      "setName": "WET DOG FOOD 7 & 8 SHELF",
+      "pogId": "D701_L00000_D01_C009_V301_F016_MX",
+      "label": "Overall B",
+      "full": "photos/Store_019_Auburn/WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX/overall_b.webp",
+      "thumb": "photos/Store_019_Auburn/WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX/overall_b.thumb.webp",
+      "setId": "19-WET_DOG_FOOD_7_&_8_SHELF_D701_L00000_D01_C009_V301_F016_MX"
+    }
+  ]
+}

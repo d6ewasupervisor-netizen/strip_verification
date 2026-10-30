@@ -11,6 +11,10 @@ Public photo review board for **District 8 · P08W2** strip verification sets.
 
 GitHub Pages: `https://d6ewasupervisor-netizen.github.io/strip_verification/`
 
+FM019 Auburn (P10W2, store 19 only): `https://d6ewasupervisor-netizen.github.io/strip_verification/fm019/`
+
+Rebuild that page with `node scripts/build-fm019.js`. Its PIN is hashed in `fm019/app.js` and is separate from the district gallery.
+
 ## Rebuild assets
 
 ```bat
